@@ -16,6 +16,7 @@ those relations hold.
 - Number quantification, "5 students like maths"
 - Ditransitive verbs, "Ron owes Hermione cake"
 - Adjectival relations, "Every green student likes maths"
+- Throwing an exception if the noun phrase set after "every" is empty, e.g. "ever male female student likes maths"
 
 
 ### Possible additions:
